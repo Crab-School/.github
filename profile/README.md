@@ -9,9 +9,9 @@ To build tools, training grounds, and applications that help developers translat
 
 ### 🛠️ Featured Projects
 
-* 🦀 **[Rust Kata for Rubyists](#)**
+* 🦀 **[Rust Kata for Rubyists](https://github.com/Crab-School/crab_school_rust)**
     *Red, Green, Refactor, Rust.* A purpose-built training ground that maps the fluid, behavioral testing culture of Ruby directly into the rigid safety of Rust. It translates familiar concepts like mocking, stubbing, and context blocks into idiomatic Rust, turning the borrow checker from an adversary into a pairing partner.
-* 🛡️ **[CARAPACE](#)**
+* 🛡️ **[CARAPACE](https://github.com/Crab-School/carapace)**
     *A hard shell for your cloud dev environment.* A rugged, native Android wrapper purpose-built for GitHub Codespaces. It hardens your mobile development experience by stripping away the friction, dropped connections, and UI compromises of standard Progressive Web Apps, delivering a stable coding environment right in your pocket.
 
 ### 📖 Our Philosophy
